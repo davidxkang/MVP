@@ -1,0 +1,15 @@
+.title {
+  color: white;
+  font: Arial;
+  font-size: 300%;
+}
+
+body {
+  /* background-image: url('https://static.nfl.com/static/content/public/static/img/share/shield.jpg'); */
+  background-color: dimgrey;
+  background-size: cover;
+}
+
+.singlegame {
+  color: white;
+}
